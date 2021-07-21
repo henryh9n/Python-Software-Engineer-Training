@@ -10,4 +10,4 @@
 
 
 ## MISC
-[https://norvig.com/21-days.html](https://norvig.com/21-days.html) - Simply a must read
+[Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) - Simply a must read
