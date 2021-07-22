@@ -1,4 +1,4 @@
-# List of usful and interesting materials
+# List of Usful and Interesting Materials
 
 ## Object Orienter Programming and Design
 [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - Extensive list of Design Patterns with detailed description on what particular problem each solves and how to implement. Includes code examples on Python.
