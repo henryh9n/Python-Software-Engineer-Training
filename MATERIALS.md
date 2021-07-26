@@ -3,6 +3,9 @@
 ## Object Orienter Programming and Design
 [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - Extensive list of Design Patterns with detailed description on what particular problem each solves and how to implement. Includes code examples on Python.
 
+## Code Styles
+[pep8.org](https://pep8.org/) - PEP 8, but a better representation
+
 ## Soft Skills
 
 [Empathy Online](https://thoughtbot.com/blog/empathy-online) - A short article on the simple way to express emotions online
