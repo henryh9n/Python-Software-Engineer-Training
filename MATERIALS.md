@@ -5,6 +5,7 @@
 
 ## Branching Models
 [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) - Easiest to start with. Sometimes good for projects of one or 2 people.
+
 [Trunk Based Development](https://trunkbaseddevelopment.com/) - Good for small teams and projects
 
 
