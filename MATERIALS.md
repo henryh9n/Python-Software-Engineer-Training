@@ -22,4 +22,4 @@
 
 
 ## MISC
-[Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) - Simply a must read ((Armenian Here)[https://henryh9n.tech/21-days])
+[Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) - Simply a must read ([Armenian Here](https://henryh9n.tech/21-days))
