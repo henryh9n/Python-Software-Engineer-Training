@@ -5,7 +5,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/henryh9n/Python-Software-Engineer-Training?include_prereleases&label=version)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/henryh9n/Python-Software-Engineer-Training/main)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaterials.henryh9n.tech)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaterials.henryh9n.tech)](https://materials.henryh9n.tech)
 
 <pre>
  __________________ 
