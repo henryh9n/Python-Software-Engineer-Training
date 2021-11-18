@@ -1,6 +1,9 @@
-# List of Usful and Interesting Materials
+# List of Useful and Interesting Materials
 
-## Object Orienter Programming and Design
+## Python Internals
+[How Python list really works](https://antonz.org/list-internals/) - A straightforward overview of Python list's underlying data structure.
+
+## Object-Oriented Programming and Design
 [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - Extensive list of Design Patterns with detailed description on what particular problem each solves and how to implement. Includes code examples on Python.
 
 ## Branching Models
