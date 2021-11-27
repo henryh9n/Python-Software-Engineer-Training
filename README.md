@@ -9,9 +9,9 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmaterials.henryh9n.tech)](https://materials.henryh9n.tech)
 
 <pre>
- __________________ 
-< Version: 0.2.0a1 >
- ------------------ 
+ ________________ 
+< Version: 0.2.0 >
+ ---------------- 
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
