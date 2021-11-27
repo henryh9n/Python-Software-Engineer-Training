@@ -22,7 +22,3 @@
 [Code Review](https://github.com/thoughtbot/guides/tree/main/code-review) - A good guideline for code reviews
 
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Title speaks for itself
-
-
-## MISC
-[Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) - Simply a must read ([Armenian Here](https://henryh9n.tech/21-days))
