@@ -1,7 +1,7 @@
 # List of Useful and Interesting Materials
 
 ## Python Internals
-[How Python list really works](https://antonz.org/list-internals/) - A straightforward overview of Python list's underlying data structure.
+[How Python list really works](https://antonz.org/list-internals/) - A straightforward overview of Python's list's underlying data structure.
 
 ## Object-Oriented Programming and Design
 [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - Extensive list of Design Patterns with detailed description on what particular problem each solves and how to implement. Includes code examples on Python.
@@ -11,6 +11,9 @@
 
 [Trunk Based Development](https://trunkbaseddevelopment.com/) - Good for small teams and projects
 
+## Web Technologies
+
+[Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers) - Implementation details of the web sockets.
 
 ## Code Styles
 [pep8.org](https://pep8.org/) - PEP 8, but a better representation
