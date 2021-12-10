@@ -2,6 +2,7 @@
 
 ## Python Internals
 [How Python list really works](https://antonz.org/list-internals/) - A straightforward overview of Python's list's underlying data structure.
+[Does Python have a stack/heap and how is memory managed?](https://stackoverflow.com/a/14546231/3005781) - A brief but perfect StackOverflow answer on how Python manages memory.
 
 ## Object-Oriented Programming and Design
 [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - Extensive list of Design Patterns with detailed description on what particular problem each solves and how to implement. Includes code examples on Python.
