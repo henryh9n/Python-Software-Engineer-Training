@@ -8,8 +8,13 @@
 - [Python 0.9.1 release (from 1991!)](https://github.com/smontanaro/python-0.9.1)
 - [A Brief Timeline of Python](https://python-history.blogspot.com/2009/01/brief-timeline-of-python.html)
 
-## 🐍 Python 3.10
+## 🐍 Python [3.10]
+- [Python 3.10: Cool New Features for You to Try](https://realpython.com/python310-new-features/)
 - [All The Important Features and Changes in Python 3.10](https://towardsdatascience.com/all-the-important-features-and-changes-in-python-3-10-e3d1fe542fbf)
+- [Acceptance of Pattern Matching PEPs 634, 635, 636, Rejection of PEPs 640 and 642](https://mail.python.org/archives/list/python-committers@python.org/message/SQC2FTLFV5A7DV7RCEAR2I2IKJKGK7W3/)
+
+- [The new TI-84 Plus CE Python graphing calculator](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python)
+- [CUDA Python 11.5 documentation](https://nvidia.github.io/cuda-python/overview.html)
 
 ## 💵 Sponsorship
 - [PSF Sponsors](https://www.python.org/psf/sponsors/)
@@ -27,6 +32,10 @@
 - [Supporting the Python community by “Shifting Left”](https://www.techatbloomberg.com/blog/supporting-the-python-community-by-shifting-left/)
 - [The PSF is hiring a Python Packaging Project Manager!](https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html)
 
+## 🥇 Achievements
+- [TIOBE Programming Community Index Definition](https://www.tiobe.com/tiobe-index/programming-languages-definition/)
+- [Top Programming Languages 2021](https://spectrum.ieee.org/top-programming-languages-2021) IEEE Spectrum
+
 ## 🚁 Ingenuity Mars Helicopter 
 - [Open Source on Mars: Community powers NASA’s Ingenuity Helicopter](https://github.com/readme/featured/nasa-ingenuity-helicopter)
 - [nasa/fprime](https://github.com/nasa/fprime)
@@ -35,3 +44,6 @@
 ## 🌶️ Flask 2.0
 - [Async in Flask 2.0](https://testdriven.io/blog/flask-async/)
 - [Using async and await](https://flask.palletsprojects.com/en/2.0.x/async-await/)
+
+## Future
+- [@gvanrossum - We're hiring for "Faster CPython"!](https://twitter.com/gvanrossum/status/1402756021358006272)
