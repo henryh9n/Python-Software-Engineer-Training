@@ -1,7 +1,7 @@
 # Articles Related to My BYEBYE2021 Talk at PYerevan
+#### Slides Here: [BYEBYE2021.pdf](https://github.com/henryh9n/Software-Engineer-Training/blob/main/BYEBYE2021.pdf)
 
 - [🎵 The PEP 8 Song 🎵](https://youtu.be/hgI0p1zf31k)
-
 
 ## 🎂 B-Day Cake 
 - [Happy birthday, Python, you're 30 years old this week: Easy to learn, and the right tool at the right time](https://www.theregister.com/2021/02/20/python_at_30/)
