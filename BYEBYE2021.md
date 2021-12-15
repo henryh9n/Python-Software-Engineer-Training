@@ -1,5 +1,5 @@
 # Articles Related to My BYEBYE2021 Talk at PYerevan
-#### Slides Here: [BYEBYE2021.pdf](https://github.com/henryh9n/Software-Engineer-Training/blob/main/BYEBYE2021.pdf)
+#### Slides Here: [BYEBYE2021.pdf](https://materials.henryh9n.tech/BYEBYE2021.pdf)
 
 - [🎵 The PEP 8 Song 🎵](https://youtu.be/hgI0p1zf31k)
 
