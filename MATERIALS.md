@@ -17,6 +17,9 @@
 
 [Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers) - Implementation details of the web sockets.
 
+## Data Visualization
+[The Python Graph Gallery](https://www.python-graph-gallery.com/) - Collection of numerous charts made with Python. Includes code snippets, examples, and descriptions.
+
 ## Code Styles
 [pep8.org](https://pep8.org/) - PEP 8, but a better representation
 
